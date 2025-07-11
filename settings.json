@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "MrBreast", 
+    "username": "TậpCậnBình", 
     "password": "",
     "type": "mojang"
   },
@@ -32,16 +32,17 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 500,
 
       "messages": [
-        "I'm a sexy lady",
-        "Do you want some susy toy",
-        "I Like to Play PVPNOPRO",
-        "This is the best server",
-        "i like to play with my friends",
-        "No one can beat me in pvp",
-        "No sex alowed"
+        "人之所以痛苦，在于追求错误的东西 (Nguyên do những nỗi đau của con người nằm tại việc theo đuổi những thứ sai lầm.)",
+        "这辈子总有美好的事情在等着我们，只是让您感到积极，一切都很棒 (Cuộc sống này luôn có những điều tốt đẹp đón chờ chúng ta, chỉ là bạn cảm thấy tích cực thì mọi việc đều tuyệt vời)",
+        "这个世界本来就是痛苦的，没有例外的 (Thế giới này vốn dĩ chính là đau khổ, chẳng có ngoại lệ.)",
+        "聪明在于勤奋 天才在于积累 (Thông minh ở chỗ phấn đấu,thiên tài ở chỗ tích lũy.)",
+        "当仇恨强烈时，不要虐待自己并变弱 (Đừng ngược đãi bản thân và yếu đuối khi người ghét bạn vẫn đang rất mạnh mẽ.)",
+        "China number 192th",
+        "Trào căc tráu ghịt năm heng, múng sống á thầy đư nước đây",
+        "Mực d*ck thực sự cua quộc sống nay, cẳng phai thằng công hay hặn phúc, mà là ruy trì nòi giống
       ]
     },
 
